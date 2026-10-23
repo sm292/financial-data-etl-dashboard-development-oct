@@ -1,0 +1,13 @@
+{
+  "source_rows": 6000,
+  "accepted_rows": 6000,
+  "rejected_rows": 0,
+  "duplicate_ids_in_source": 0,
+  "nulls_after_cleaning": {},
+  "revenue_total": 3847413.32,
+  "expense_total": 2531386.43,
+  "gross_profit_total": 1316026.89,
+  "reconciliation_difference": -0.0,
+  "anomaly_count": 1060,
+  "generated_at_utc": "2026-10-23T14:43:39.034476+00:00"
+}
